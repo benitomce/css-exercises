@@ -1,0 +1,18 @@
+.n {
+    background-color: lightpink;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.adjust-font-size {
+    font-size: xx-large;
+}
+
+#n2 {
+    font-size: x-large;
+    color: blue
+}
+
+#n4 {
+    background-color: lightgreen;
+    font-weight: bolder;
+}
